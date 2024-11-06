@@ -23,3 +23,30 @@ Make sure you have a modern web browser that supports WebGL (e.g., Chrome, Firef
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/my-webgl-project.git
+   ```
+
+2. **Open the project folder**:
+   ```bash
+   cd piano_interactif
+   ```
+
+2. **Run locally**:
+   Open index.html in a web browser
+
+## 📁 Directory Structure
+
+- **`index.html`**: Main HTML file that sets up the canvas and includes JavaScript.
+- **`script.js`**: Main WebGL and JavaScript code handling interactions, particles, and audio.
+- **`audio.mp3`**: Audio file used for the piano sound sequence.
+
+## ✨ Usage
+
+- Click on the cubes in the canvas area to play a part of the song.
+- Each click triggers a particle burst effect and changes the cube's color.
+- The audio progresses with each click, creating an interactive song experience.
+
+## 🛠 Technologies Used
+
+- **WebGL**: For 3D rendering and creating interactive elements.
+- **JavaScript**: To handle user interactions and animations.
+- **HTML/CSS**: Basic page setup.
