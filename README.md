@@ -31,7 +31,7 @@ Make sure you have a modern web browser that supports WebGL (e.g., Chrome, Firef
    ```
 
 2. **Run locally**:
-   Open index.html in a web browser
+   Open `index.html` in a web browser
 
 ## 📁 Directory Structure
 
