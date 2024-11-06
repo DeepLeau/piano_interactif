@@ -4,7 +4,7 @@ This is an interactive WebGL project featuring a virtual piano experience. Click
 
 ## 🌐 Live Demo
 
-You can check out the live version of this project [here](https://your-username.github.io/my-webgl-project/).
+You can check out the live version of this project [here](https://deepleau.github.io/piano_interactif/).
 
 ## 📜 Features
 
